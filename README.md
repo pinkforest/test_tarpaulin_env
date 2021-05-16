@@ -1,8 +1,12 @@
 test_tarpaulin_env
 ==================
 
-- Issue tracker: xx
+- Issue tracker: https://github.com/xd009642/tarpaulin/issues/761
+- Install: cargo install tarpaulin and clone this repo
 - Doc adjustment: https://github.com/xd009642/tarpaulin/pull/760
+- Fix code PR: maybe?
+
+Expectation is that cargo tarpaulin makes env CARGO_MANIFEST_PATH available under test.
 
 ## Limitations
 
